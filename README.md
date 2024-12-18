@@ -8,7 +8,7 @@
 - JavaScript
 
 ## デモリンク
-[GitHub Pages](https://nanasicoder.github.io/20241218/)
+[GitHub Pages](https://nanasi-coder.github.io/nanasicoder/!DOCTYPE%20.html)
 
 ## 今後の課題
 - データを動的に更新する。
