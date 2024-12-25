@@ -8,7 +8,7 @@
 - JavaScript
 
 ## デモリンク
-[GitHub Pages](https://unpkg.com/leaflet@1.3.0/dist/leaflet.js)
+[GitHub Pages](https://)
 
 ## 今後の課題
 - データを動的に更新する。
