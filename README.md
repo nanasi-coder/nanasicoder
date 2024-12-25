@@ -8,7 +8,7 @@
 - JavaScript
 
 ## デモリンク
-[GitHub Pages](https://file:///C:/Users/minat/Downloads/index.html)
+[GitHub Pages](file:///C:/Users/minat/Downloads/index.html)
 
 ## 今後の課題
 - データを動的に更新する。
