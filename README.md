@@ -8,7 +8,7 @@
 - JavaScript
 
 ## デモリンク
-[GitHub Pages](https://1drv.ms/u/c/8fc640b42b6ddb13/EcvumpuyLZlGvU8Z0oGBRowBuko-H_loKdgWmVtwM435Jg?e=o38DdA)
+[GitHub Pages](https://1drv.ms/u/c/8fc640b42b6ddb13/EW3MEC7R8sJOkpBwUwP8FhUBV-Vd3LMyHXXsogmNEyvrkA)
 
 ## 今後の課題
 - データを動的に更新する。
