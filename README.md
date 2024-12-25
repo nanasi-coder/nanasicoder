@@ -8,7 +8,7 @@
 - JavaScript
 
 ## デモリンク
-[GitHub Pages](https://)
+[GitHub Pages]()
 
 ## 今後の課題
 - データを動的に更新する。
